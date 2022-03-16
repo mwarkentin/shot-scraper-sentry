@@ -1,2 +1,8 @@
 - url: https://sentry.io/welcome/
-  output: shot.png
+  output: sentry-home.png
+- url: https://sentry.io/pricing/
+  output: sentry-pricing.png
+- url: https://docs.sentry.io
+  output: sentry-docs.png
+- url: https://blog.sentry.io
+  output: sentry-blog.png
