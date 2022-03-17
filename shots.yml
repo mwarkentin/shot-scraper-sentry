@@ -1,8 +1,12 @@
 - url: https://sentry.io/welcome/
   output: sentry-home.png
+  wait: 3000
 - url: https://sentry.io/pricing/
   output: sentry-pricing.png
+  wait: 3000
 - url: https://docs.sentry.io
   output: sentry-docs.png
+  wait: 3000
 - url: https://blog.sentry.io
   output: sentry-blog.png
+  wait: 3000
